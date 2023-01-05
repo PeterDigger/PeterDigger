@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Chong Phit Herng
-#### an undergraduate multimedia student
+#### a final year Undergraduate B.Sc Multimedia Technology from University Malaysia Sabah
 
 ![You found me!](banner.jpg)
 
