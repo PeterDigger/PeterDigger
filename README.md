@@ -7,7 +7,7 @@ I'm Chong Phit Herng, also known as Peter or Michael online. I like coding in PH
 
 Aside from coding, I like GNU/Linux, custom keebs (r/mk), cars, and self-hosting servers (r/homelab). I really enjoy learning new things. 
 
-Skills: PHP / JS / HTML / CSS / JAVA / 
+Skills: PHP / JS / HTML / CSS / Java
 
 - 🌱 I’m currently doing my final year project!
 - ⚡ Fun fact: The first modern computer was basically a giant calculator
