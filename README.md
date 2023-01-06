@@ -3,14 +3,14 @@
 
 ![You found me!](banner.jpg)
 
-I'm Chong Phit Herng, also known as Peter or Michael online. I like coding in PHP, JS, Bash, and a bit of Python. My passion is coding full-stack applications.
+I'm Chong Phit Herng, also known as Peter or Michael online. I like coding in PHP, JS, Bash, and a bit of Python. My passion is be part with full-stack application project.
 
 Aside from coding, I like GNU/Linux, custom keebs (r/mk), cars, and self-hosting servers (r/homelab). I really enjoy learning new things. 
 
-Skills: PHP / JAVA / JS / HTML / CSS
+Skills: PHP / JS / HTML / CSS / JAVA / 
 
-- 🌱 I’m currently learning Laravel and JS 
-- ⚡ Fun fact: It takes 25 years for a head of lettuce to decompose in landfill. 
+- 🌱 I’m currently doing my final year project!
+- ⚡ Fun fact: The first modern computer was basically a giant calculator
 
 Website
 
