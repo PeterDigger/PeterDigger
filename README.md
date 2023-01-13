@@ -17,6 +17,7 @@ Website
 - [Google Site](https://sites.google.com/view/rchongphitherng)
 - [Prettier Site(Coming Soon!)](#)
 - [Classic Site(Coming Aoon!)](#)
+- [Github](https://peterdigger.github.io/)
 
 ![Profile views](https://gpvc.arturio.dev/peterdigger)  
 
