@@ -1,6 +1,6 @@
 ### Hey👋, I am Chong Phit Herng (Peter)
 
-I'm a recent graduate from University Malaysia Sabah. A brief synopsis of my life might include: tea, music, linear switches, and plain text documents.
+I'm a recent graduate from University Malaysia Sabah. A brief synopsis of my life might include: tea, music, tactile switches, and plain text documents.
 
 - I'm currently working on... graphics design 😉
 - Interests: Web Development and Programming Languages
