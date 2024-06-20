@@ -9,5 +9,5 @@ I'm a recent graduate from University Malaysia Sabah. A brief synopsis of my lif
 
 Website
 
-- [Google Site](https://sites.google.com/view/rchongphitherng)
-- [Github](https://peterdigger.github.io/)
+- [Google Site](https://sites.google.com/view/rchongphitherng) (Dormant)
+- [Github](https://peterdigger.github.io/) (Dormant)
