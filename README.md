@@ -1,11 +1,10 @@
 ### Hey👋, I am Chong Phit Herng (Peter)
 
-I'm a recent graduate from University Malaysia Sabah. A brief synopsis of my life might include: tea, music, tactile switches, and plain text documents.
+I'm a current fresh graduate SAP Consultant on Project System! A brief synopsis of my life might include: movie, tv shows, and music, and old computer hardware.
 
-- I'm currently working on... graphics design 😉
-- Interests: Web Development and Programming Languages
-- Languages: C++, Bash
-- Looking to learn: Python, Swift, Haskell
+- I'm currently working on... LGA1155 home server which idle draws 19.7W!
+- Interests: Nix OS, HomeLab, TV Shows
+- Languages: Bash, Docker, Nix OS, HTML
 
 Website
 
